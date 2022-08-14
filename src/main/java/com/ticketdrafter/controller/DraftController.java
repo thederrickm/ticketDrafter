@@ -17,7 +17,7 @@ import java.util.Map;
 
 
 @RestController
-@RequestMapping("/draft")
+@RequestMapping("/api/draft")
 public class DraftController {
 
 
